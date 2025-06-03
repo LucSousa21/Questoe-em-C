@@ -24,6 +24,8 @@ int main(){
         printf("Aluno %d %s - Nota final: %d\n ", i + 1, nome[i], soma[i]);
                                      
     }
+
+    printf("Hello world\n");
     /*for(i = 0; i < 3; i ++){
         if(resposta[i] == gab[i]){
             printf("Questão %d esta certa (gabarito %c)\n", i + 1, gab[i], questoes[i]);
