@@ -71,16 +71,16 @@ int main() {
     int i, nota = 0;
     char resposta[TOTAL_QUESTOES];
     char gabarito[TOTAL_QUESTOES] = {
-        'a','c','d','c','e','c','c','e','a','b',
-        'c','d','d','a','b','b','b','c','d','d',
-        'a','a','e','c','d','b','a','e','c','e',
-        'b','c','d','d','c','c','d','d','c','e',
-        'c','b','c','a','b','c','b','a','d','e',
-        'e','d','a','b','d','b','d','d','d','d',
-        'c','b','d','c','d','a','a','d','e','e',
-        'c','b','b','c','e','d','b','a','e','c',
-        'd','a','a','c','a','d','a','d','b','c',
-        'a','c','c','d','d','b','e','d','a','e',
+        'a','d','a','c','d','e','e','d','d','b',
+        'a','e','a','c','d','b','c','c','c','a',
+        'b','b','c','x','d','a','b','b','d','b',
+        'e','c','a','a','b','d','e','e','d','a',
+        'b','d','c','e','a','c','b','c','a','a',
+        'd','b','d','d','a','c','b','c','c','b',
+        'd','e','c','d','b','c','c','d','e','e',
+        'd','e','a','b','b','d','d','b','c','c',
+        'e','a','b','a','b','c','d','a','c','c',
+        'b','e','c','b','c','d','b','d','b','d',
     };
 
     printf("Digite as respostas do aluno (A, B, C, D ou E):\n");
