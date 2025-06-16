@@ -1,6 +1,0 @@
-echo '*.o' >> .gitignore
-echo '*.out' >> .gitignore
-echo '*.exe' >> .gitignore
-echo 'main' >> .gitignore
-echo 'output/' >> .gitignore
-echo 'build/' >> .gitignore
